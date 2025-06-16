@@ -1,0 +1,14 @@
+{
+  "name": "Skincare Gold",
+  "version": "1.0.0",
+  "author": "WafaMakki78",
+  "styles": [
+    "assets/style.css"
+  ],
+  "templates": [
+    "templates/index.html"
+  ],
+  "sections": [
+    "sections/featured-products.html"
+  ]
+}
